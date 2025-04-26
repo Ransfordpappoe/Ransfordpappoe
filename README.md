@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ransfordpappoe
-- 👀 I’m interested in coding, programming with javascript, java, kotlin
-- Experience android developer with 4 years of experience
-- Experience in backend enginerring with node js
-- 📫 How to reach me: addoteipappoe23@gmail.com
+- 👋 Hi, I’m Ransford pappoe
+- 👀 Software engineer
+- Proficient in javascript, java, kotlin, python
+- Interested in building apps on mobile, web, desktop, wear os, etc
+- 📫 How to reach me: ransadm23@gmail.com
 
 <!---
 Ransfordpappoe/Ransfordpappoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
